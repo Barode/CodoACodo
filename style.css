@@ -1,0 +1,33 @@
+#img-bg {
+    background: linear-gradient(rgba(5, 7, 12, 0.55), rgba(5, 7, 12, 0.55)),
+      url(./ba1.jpg);
+    background-repeat: no-repeat;
+    background-position: 100%;
+    height: 42rem;
+    text-align: end;
+    display: flex;
+  }
+  #h1-txt {
+    color: white;
+  }
+  
+  .txt-wht {
+    color: white;
+  }
+  .color-lima {
+    background-color: #9eb23b;
+    color: white;
+  }
+  
+  .bg-footer {
+    background: rgb(11, 34, 70);
+    background: linear-gradient(
+      97deg,
+      #323644 15%,
+      #285372 100%
+    );
+  }
+  
+  .bg-footer > li > a {
+    color: white;
+  }
